@@ -14,5 +14,10 @@ all of it written in c++ and compiled by g++ compiler
 <br>
 3- sudo sh install
 <br>
-ok it installed and you can delete the cloned file
+ok it installed and you can lock your device by <b>lock</b> command
+<br>
+you can also make keyboard shortcut for it to lock your device with it
+<br>
+now you can delete the cloned file
+<br>
 :)
