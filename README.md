@@ -10,9 +10,9 @@ all of it written in c++ and compiled by g++ compiler
 <h2>installtion</h2>
 1- git clone https://github.com/am-shm/i3lock-edited
 <br>
-2- cd i3lock
+2- cd i3lock-edited
 <br>
-3- sudo sh install
+3- sudo bash install.sh
 <br>
 ok it installed and you can lock your device by <b>lock</b> command
 <br>
