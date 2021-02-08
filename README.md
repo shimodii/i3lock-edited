@@ -1,6 +1,6 @@
 # i3lock-edited
 <h2>about</h2>
-i couldnt install i3lock fancy so i decide to make one more simple
+i couldnt install i3lock fancy so i decide to make one more simple for debian based distros -arch based soon-
 <br>
 it take a screenshot and give it to i3 lock then remove the screenshots
 <br>
