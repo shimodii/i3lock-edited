@@ -12,9 +12,9 @@ all of it written in c++ and compiled by g++ compiler
 <br>
 2- cd i3lock-edited
 <br>
-3- sudo bash install.sh
+3- sudo bash (arch-based-installtion.sh/debian-based-installtion.sh)
 <br>
-ok it installed and you can lock your device by <b>lock</b> command
+ok it installed and you can lock your device by <tt><b>lock</b></tt> command
 <br>
 you can also make keyboard shortcut for it to lock your device with it
 <br>
