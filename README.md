@@ -8,12 +8,14 @@ it also support multi monitor :)
 <br>
 all of it written in c++ and compiled by g++ compiler
 <h2>installtion</h2>
+<tt>
 1- git clone https://github.com/am-shm/i3lock-edited
 <br>
 2- cd i3lock-edited
 <br>
 3- sudo bash (arch-based-installtion.sh/debian-based-installtion.sh)
 <br>
+</tt>
 ok it installed and you can lock your device by <tt><b>lock</b></tt> command
 <br>
 you can also make keyboard shortcut for it to lock your device with it
