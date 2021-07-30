@@ -10,9 +10,13 @@ all of it written in c++ and compiled by g++ compiler
 <h2>installtion</h2>
 <tt>
 1- git clone https://github.com/am-shm/i3lock-edited
+</tt>
 <br>
+<tt>
 2- cd i3lock-edited
+</tt>
 <br>
+<tt>
 3- sudo bash (arch-based-installtion.sh/debian-based-installtion.sh)
 <br>
 </tt>
